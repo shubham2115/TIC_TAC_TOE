@@ -2,3 +2,4 @@
 
 Board obj = new Board();
 obj.gameBoard();
+obj.abillityToInput();
